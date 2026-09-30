@@ -1,0 +1,6 @@
+click
+rich
+pytest
+aiohttp
+sqlite3
+asyncio

@@ -1,0 +1,1 @@
+This repository contains a CLI utility that integrates static code analysis, dynamic code coverage tracking, and a SQLite-backed local caching system for API responses. The core logic is in `src/core.py` and the CLI interface is in `src/cli.py`. Unit tests for the core logic are in `tests/test_core.py`.
